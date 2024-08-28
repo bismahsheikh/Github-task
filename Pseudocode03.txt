@@ -1,0 +1,11 @@
+Problem no 03
+Start
+Input num1
+Input num2
+Input operators '+' or '-'
+If operator== '+'
+ Sum=num1+num2
+If operator== '-'
+  Difference=num1-num2
+Print sum or difference
+Stop
