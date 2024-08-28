@@ -1,0 +1,42 @@
+Problem no 02
+Start
+Input num
+Input 1=January 
+Input 2=February
+Input 3=March
+Input 4=April
+Input 5=May
+Input 6=June
+Input 7=July
+Input 8=August
+Input 9=September
+Input 10=October
+Input 11=November
+Input 12=December
+If (num==1)
+	Print “January”
+Else-If (num==2)
+	Print “February”
+Else-If (num==3)
+	Print “March”
+Else-If (num==4)
+	Print “April”
+Else-If (num==5)
+	Print “May”
+Else-If (num==6)
+	Print “June”
+Else-If (num==7)
+	Print “July”
+Else-If (num==8)
+	Print “August”
+Else-If (num==9)
+	Print “September”
+Else-If (num==10)
+	Print “October”
+Else-If (num==11)
+	Print “November”
+Else-If (num==12)
+	Print “December”
+Else
+	Print “No month belong to this number”
+Stop
