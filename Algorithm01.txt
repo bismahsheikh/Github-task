@@ -1,0 +1,10 @@
+Problem no 01
+ Start
+ Input x,y
+ If  x and y are not equal to 0
+ Divide x by y
+ If the reminder is 0 then x is a divisor of y
+ Else it is not a divisor of y
+ If x is a multiple of 2 then it is an even number
+ Else it is an odd number
+ Stop
