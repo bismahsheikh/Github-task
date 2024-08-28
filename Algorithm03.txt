@@ -1,0 +1,11 @@
+Start
+Input num.1
+Input num.2
+Input operators +,-,*,/,%	
+If the user enter '+' operator then add the first operand with second operand.
+If the user enter '–' operator then subtract the first operand by second one.
+If the user enter '*' operator then multiply both the operands.
+If the user enter '/' operator then divide the first operand by second one.
+If the user enter '%' operator then return the reminder of an integral  value.
+Print the final result
+Stop
