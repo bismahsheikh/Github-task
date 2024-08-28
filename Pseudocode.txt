@@ -1,0 +1,12 @@
+Problem no 01							
+1. Start							           
+2. Input num1	  	
+3. Input num2	 
+3. Input num3						            	
+4. If num1>num2&&num1>num3                                                     
+	Print num1 is maximum                                                                                  
+5. If num2>num3&&num2>num1                                                     
+	Print num2 is maximum                                                                    
+ 6. Else                                                                                                      
+	Print num3 is maximum
+8. Stop 
