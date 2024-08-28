@@ -1,0 +1,7 @@
+Problem no 02
+1. Start
+2. Input l,m,n
+3. Set z=0
+4. z=l-(-m)-(-n)
+5. Print z
+6. Stop
